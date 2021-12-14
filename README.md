@@ -3,6 +3,7 @@
 2. IntelliJ IDEA v2021.2.2;
 3. Browser: Firefox;
 4. Webdiver: geckodriver;
+5. Selenium v4.1.0;
 # Testing: https://www.saucedemo.com/
 # Task:
 Create Java automation scenarios for checking filtering by price and adding products to the shopping cart on https://www.saucedemo.com/ for standard_user. Add setup documentation to your project. Upload the code of your solution to GitHub and.
